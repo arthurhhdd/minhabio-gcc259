@@ -47,3 +47,7 @@ Duração 2 meses Desenvolvedor front-end
 * SCRUM.
 * Lean Kanban
 * Tester em sites e aplicativos.
+
+## Avatar
+
+![Batata feliz](https://static.wikia.nocookie.net/oncrivelmundodegumball/images/9/93/Hou_hou_hou_feliz_idahou.png/revision/latest/smart/width/250/height/250?cb=20130421135407&path-prefix=pt "Batata feliz")
